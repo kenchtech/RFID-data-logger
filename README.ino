@@ -1,9 +1,8 @@
 
 //Certified to work
 /*********
-  Rui Santos
-  Complete project details at http://randomnerdtutorials.com  
-  Edited by KENCH_TECH 
+ 
+  Edited by Chinua 
 *********/
 //The esp8266 acts as a client and is controlled a webpage  whose ip addreess is that of the Wifi module
 // Load Wi-Fi library
